@@ -1,7 +1,7 @@
 #include <iostream>
-#include "headers/profiles.h"
-#include "headers/load_profile.h"
-#include "headers/extras.h"
+#include "../headers/profiles.h"
+#include "../headers/load_profile.h"
+#include "../headers/extras.h"
 
 using std::cout;
 using std::cin;
